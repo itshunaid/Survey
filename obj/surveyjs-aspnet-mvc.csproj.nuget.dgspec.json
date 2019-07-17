@@ -1,0 +1,66 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\GitHub\\surveyjs-aspnet-mvc\\surveyjs-aspnet-mvc.csproj": {}
+  },
+  "projects": {
+    "D:\\GitHub\\surveyjs-aspnet-mvc\\surveyjs-aspnet-mvc.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\GitHub\\surveyjs-aspnet-mvc\\surveyjs-aspnet-mvc.csproj",
+        "projectName": "surveyjs-aspnet-mvc",
+        "projectPath": "D:\\GitHub\\surveyjs-aspnet-mvc\\surveyjs-aspnet-mvc.csproj",
+        "packagesPath": "C:\\Users\\Hunaid Jamali\\.nuget\\packages\\",
+        "outputPath": "D:\\GitHub\\surveyjs-aspnet-mvc\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Hunaid Jamali\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.1": {
+          "dependencies": {
+            "Microsoft.AspNetCore.All": {
+              "target": "Package",
+              "version": "[2.1.5, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.1.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}

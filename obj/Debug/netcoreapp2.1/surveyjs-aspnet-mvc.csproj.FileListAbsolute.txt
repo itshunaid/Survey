@@ -1,0 +1,14 @@
+D:\GitHub\surveyjs-aspnet-mvc\bin\Debug\netcoreapp2.1\surveyjs-aspnet-mvc.deps.json
+D:\GitHub\surveyjs-aspnet-mvc\bin\Debug\netcoreapp2.1\surveyjs-aspnet-mvc.runtimeconfig.json
+D:\GitHub\surveyjs-aspnet-mvc\bin\Debug\netcoreapp2.1\surveyjs-aspnet-mvc.runtimeconfig.dev.json
+D:\GitHub\surveyjs-aspnet-mvc\bin\Debug\netcoreapp2.1\surveyjs-aspnet-mvc.dll
+D:\GitHub\surveyjs-aspnet-mvc\bin\Debug\netcoreapp2.1\surveyjs-aspnet-mvc.pdb
+D:\GitHub\surveyjs-aspnet-mvc\obj\Debug\netcoreapp2.1\surveyjs-aspnet-mvc.csprojAssemblyReference.cache
+D:\GitHub\surveyjs-aspnet-mvc\obj\Debug\netcoreapp2.1\surveyjs-aspnet-mvc.csproj.CoreCompileInputs.cache
+D:\GitHub\surveyjs-aspnet-mvc\obj\Debug\netcoreapp2.1\surveyjs-aspnet-mvc.RazorAssemblyInfo.cache
+D:\GitHub\surveyjs-aspnet-mvc\obj\Debug\netcoreapp2.1\surveyjs-aspnet-mvc.RazorAssemblyInfo.cs
+D:\GitHub\surveyjs-aspnet-mvc\obj\Debug\netcoreapp2.1\surveyjs-aspnet-mvc.AssemblyInfoInputs.cache
+D:\GitHub\surveyjs-aspnet-mvc\obj\Debug\netcoreapp2.1\surveyjs-aspnet-mvc.AssemblyInfo.cs
+D:\GitHub\surveyjs-aspnet-mvc\obj\Debug\netcoreapp2.1\surveyjs-aspnet-mvc.RazorTargetAssemblyInfo.cache
+D:\GitHub\surveyjs-aspnet-mvc\obj\Debug\netcoreapp2.1\surveyjs-aspnet-mvc.dll
+D:\GitHub\surveyjs-aspnet-mvc\obj\Debug\netcoreapp2.1\surveyjs-aspnet-mvc.pdb
